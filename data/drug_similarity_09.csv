@@ -1,0 +1,22 @@
+Drug_1,Drug_2,Similarity,Relation
+ramipril,trandolapril,0.9431818181818182,0
+amphetamine,dextroamphetamine,1.0,0
+vidarabine,adenosine,1.0,0
+citalopram,escitalopram,1.0,0
+methylphenidate,dexmethylphenidate,1.0,0
+epirubicin,doxorubicin,1.0,0
+lansoprazole,dexlansoprazole,1.0,0
+quinine,quinidine,1.0,0
+vincristine,vinblastine,0.9137931034482759,0
+mannitol,sorbitol,1.0,0
+pseudoephedrine,ephedrine,1.0,0
+sirolimus,everolimus,0.900523560209424,0
+chlorpheniramine,dexchlorpheniramine,1.0,0
+levofloxacin,ofloxacin,1.0,0
+enoxaparin,dalteparin sodium,1.0,0
+corticotropin,corticorelin ovine triflutate,0.9064516129032258,0
+cetirizine,levocetirizine dihydrochloride,1.0,0
+trihexyphenidyl,procyclidine,0.9538461538461539,0
+neomycin,paromomycin,0.9152542372881356,0
+protirelin,thyrotropin alfa,1.0,0
+dexbrompheniramine,brompheniramine,1.0,0

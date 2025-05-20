@@ -1,0 +1,41 @@
+Drug_1,Drug_2,Similarity,Relation
+oxytocin,urofollitropin,0.8585858585858586,0
+ramipril,trandolapril,0.9431818181818182,0
+amphetamine,dextroamphetamine,1.0,0
+vidarabine,adenosine,1.0,0
+erythromycin,azithromycin,0.8299319727891157,0
+erythromycin,clarithromycin,0.8943661971830986,0
+citalopram,escitalopram,1.0,0
+terfenadine,fexofenadine,0.8636363636363636,0
+methylphenidate,dexmethylphenidate,1.0,0
+teniposide,etoposide,0.8188405797101449,0
+epirubicin,daunorubicin,0.8828828828828829,0
+epirubicin,doxorubicin,1.0,0
+lansoprazole,dexlansoprazole,1.0,0
+quinine,quinidine,1.0,0
+vincristine,vinblastine,0.9137931034482759,0
+hydroxyzine,cetirizine,0.8117647058823529,0
+hydroxyzine,levocetirizine dihydrochloride,0.8117647058823529,0
+chloroquine,hydroxychloroquine,0.8142857142857143,0
+fluphenazine,trifluoperazine,0.8043478260869565,0
+daunorubicin,doxorubicin,0.8828828828828829,0
+mannitol,sorbitol,1.0,0
+mometasone,beclomethasone,0.875,0
+cefaclor,cephalexin,0.8333333333333334,0
+pseudoephedrine,ephedrine,1.0,0
+sirolimus,everolimus,0.900523560209424,0
+sirolimus,temsirolimus,0.8472906403940886,0
+chlorpheniramine,dexchlorpheniramine,1.0,0
+levofloxacin,ofloxacin,1.0,0
+enoxaparin,dalteparin sodium,1.0,0
+corticotropin,corticorelin ovine triflutate,0.9064516129032258,0
+everolimus,temsirolimus,0.8731707317073171,0
+cetirizine,levocetirizine dihydrochloride,1.0,0
+cefotaxime,cefpodoxime,0.8488372093023255,0
+trihexyphenidyl,procyclidine,0.9538461538461539,0
+alendronate,pamidronate,0.8055555555555556,0
+ergonovine,methylergonovine,0.8289473684210527,0
+neomycin,paromomycin,0.9152542372881356,0
+protirelin,thyrotropin alfa,1.0,0
+leuprolide,triptorelin pamoate,0.8049645390070922,0
+dexbrompheniramine,brompheniramine,1.0,0
