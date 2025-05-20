@@ -1,5 +1,7 @@
 # MolFPKG-DILI
 
+Integrating multi-Source features and knowledge graph for graded prediction of drug-induced liver injury in humans
+
 ## introduction
 Our research introduces MolFPKG-DILI, an advanced model that integrates multiple feature sources—molecular fingerprints, molecular graphs, and expansive knowledge graphs with diverse drug-related data—to enhance prediction accuracy and detail. This model not only predicts the presence of DILI but also discerns varying degrees of liver injury severity. Utilizing attention-based feature fusion and relational graph convolutional networks, MolFPKG-DILI outperforms existing models, offering nuanced insights into DILI levels. This method is anticipated to serve as a dependable tool for toxicity risk assessment in early drug development, reducing the likelihood of development failures attributed to liver toxicity.
 
@@ -43,3 +45,5 @@ mol_graph.pt: Molecular graph features, generated using graph_tox.py.
 5. Use train.py to train the model and obtain results.
 
 The process for the toxicity classification task is similar.
+
+## Cite
