@@ -22,6 +22,8 @@ mol_graph.pt: Molecular graph features, generated using graph_tox.py.
 2. graph_drugsim_0x.pt (5 files): Usable knowledge graphs generated from the relationship edges in the knowledge graph, generated using graph_tox.py.
 3. graph.py: Knowledge graph that does not include drug-drug relationships, generated using graph_tox.py.
 
+## baseline
+This folder contains the model codes of the comparative experiments involved in this paper. For specific details, please refer to the file baselin/readme.md.
 
 ## code
 1. get_drug_similarity.py: Calculates Morgan fingerprints and computes similarities.
